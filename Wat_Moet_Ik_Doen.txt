@@ -7,7 +7,7 @@ Stel een vraag aan "Delano:"
 - Zoek de vraag op in "mijn_vragen.txt", neem de code (Bijvoorbeeld 369229efa72293bbb272)
 - Ga naar de branch van Delano:
   "git checkout Delano"
-- Pas het "Q_en_A.txt bestand aan met je favoriete editor, zet hierin alleen de code.
+- Pas het "Q_en_A.txt bestand aan met je favoriete editor, zet hierin alleen de vraag en de code.
 - Maak een commit
   "git add Q_en_A.txt"
   "git commit"
